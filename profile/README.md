@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Offer-Hub" src="https://github.com/user-attachments/assets/27014cfb-0416-45eb-92d3-a9f52495790b" />
+<img width="1584" height="396" alt="Offer-Hub" src="https://github.com/user-attachments/assets/57af8ff7-670b-4e00-af3c-ccd953785844" />
+
 
 # OFFER-HUB
 
