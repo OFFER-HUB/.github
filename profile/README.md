@@ -29,7 +29,7 @@ The main objectives of OFFER-HUB are:
 
 ---
 
-## Architecture Approach
+## Architecture Approach 
 
 OFFER-HUB follows a hybrid architecture:
 
